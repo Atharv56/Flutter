@@ -54,7 +54,7 @@ class _HomeState extends State<Home> {
                     color: Colors.grey[300],
                   ),
                   label: Text(
-                    'Select the location you want',
+                    'Location',
                     style: TextStyle(
                       color: Colors.grey[300],
                     ),
