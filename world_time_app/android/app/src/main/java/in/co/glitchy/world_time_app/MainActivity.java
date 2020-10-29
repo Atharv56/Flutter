@@ -1,4 +1,4 @@
-package uk.co.thenetninja.world_time_app;
+package in.co.glitchy.world_time_app;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
