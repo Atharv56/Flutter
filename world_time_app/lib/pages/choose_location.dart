@@ -9,6 +9,7 @@ class ChooseLocation extends StatefulWidget {
 class _ChooseLocationState extends State<ChooseLocation> {
   List<WorldTime> locations = [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     WorldTime(url: 'Europe/London', location: 'London', flag: 'uk.png'),
     WorldTime(url: 'Europe/Berlin', location: 'Athens', flag: 'greece.png'),
     WorldTime(url: '', location: '', flag: ''),
@@ -39,6 +40,8 @@ class _ChooseLocationState extends State<ChooseLocation> {
     WorldTime(url: '', location: '', flag: ''),
     WorldTime(url: '', location: '', flag: ''),
 =======
+=======
+>>>>>>> Stashed changes
     WorldTime(url: 'Europe/London', location: 'London', flag: ''),
     WorldTime(url: 'Europe/Berlin', location: 'Berlin', flag: 'berlin.png'),
     WorldTime(url: 'Europe/Amsterdam', location: 'Amsterdam', flag: ''),
@@ -85,6 +88,9 @@ class _ChooseLocationState extends State<ChooseLocation> {
     WorldTime(url: 'Europe/Warsaw', location: 'Warsaw', flag: ''),
     WorldTime(url: 'Europe/Zaporozhye', location: 'Zaporozhye', flag: ''),
     WorldTime(url: 'Europe/Zurich', location: 'Zurich', flag: ''),
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     WorldTime(url: '', location: '', flag: ''),
     WorldTime(url: '', location: '', flag: ''),
